@@ -589,3 +589,17 @@ textarea { min-height: 110px; resize: vertical; }
 .bouton--clair:hover { background: rgba(255, 255, 255, 0.15); color: #fff; }
 #contact { scroll-margin-top: 72px; }
 .tarif__prix .a-completer { font-family: var(--police-texte); font-size: 0.55em; vertical-align: middle; }
+
+/* ---------- 15. Page de vérification ---------- */
+.verif { margin-bottom: 12px; border-left: 5px solid var(--succes); }
+.verif--alerte { border-left-color: var(--alerte-bord); }
+.verif--erreur { border-left-color: var(--erreur); }
+.verif h2 { margin: 0 0 6px; font-size: 1.1rem; display: flex; align-items: center; gap: 8px; }
+.verif__icone { display: inline-grid; place-items: center; width: 24px; height: 24px; border-radius: 50%; color: #fff; font-size: 0.85rem; background: var(--succes); }
+.verif--alerte .verif__icone { background: var(--alerte-bord); }
+.verif--erreur .verif__icone { background: var(--erreur); }
+.verif ul { padding-left: 1.2em; margin: 0; }
+.verif li { margin-bottom: 6px; font-size: 0.95rem; }
+.verif__erreur { color: var(--erreur); }
+.verif__alerte { color: var(--alerte-texte); }
+code { background: #ecebe5; padding: 1px 5px; border-radius: 4px; font-size: 0.9em; }
