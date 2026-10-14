@@ -553,3 +553,39 @@ textarea { min-height: 110px; resize: vertical; }
 .methode__conseil { font-size: 0.95rem; }
 .groupe-boutons .texte-doux { align-self: center; }
 .methode__exemple { background: #faf9f6; border-left: 4px solid var(--primaire); font-size: 0.95rem; }
+
+/* ---------- 14. Cours particuliers ---------- */
+.a-completer { background: #fff1a8; color: #5c4600; padding: 0 3px; border-radius: 3px; font-weight: 600; }
+
+.liste-coches { list-style: none; padding: 0; }
+.liste-coches li { position: relative; padding-left: 28px; margin-bottom: 8px; }
+.liste-coches li::before {
+  content: "✓";
+  position: absolute;
+  left: 0;
+  top: 1px;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: var(--primaire-clair);
+  color: var(--primaire);
+  font-size: 0.75rem;
+  font-weight: 700;
+  display: grid;
+  place-items: center;
+}
+
+.grille--tarifs { grid-template-columns: 1fr; }
+@media (min-width: 640px) { .grille--tarifs { grid-template-columns: repeat(3, 1fr); } }
+.tarif { text-align: center; display: flex; flex-direction: column; }
+.tarif__formule { margin: 0 0 2px; font-size: 1.05rem; }
+.tarif__duree { color: var(--texte-doux); font-size: 0.9rem; margin: 0; }
+.tarif__prix { font-family: var(--police-titres); font-size: 1.6rem; font-weight: bold; color: var(--accent); margin: 10px 0; }
+.tarif__detail { font-size: 0.9rem; color: var(--texte-doux); margin: 0; }
+
+.contact__email { font-weight: 700; font-size: 1.1rem; color: #fff !important; word-break: break-all; }
+.bandeau-cours .message--alerte { color: var(--alerte-texte); }
+.bouton--clair { color: #fff; border-color: #fff; }
+.bouton--clair:hover { background: rgba(255, 255, 255, 0.15); color: #fff; }
+#contact { scroll-margin-top: 72px; }
+.tarif__prix .a-completer { font-family: var(--police-texte); font-size: 0.55em; vertical-align: middle; }

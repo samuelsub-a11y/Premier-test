@@ -1,0 +1,51 @@
+{
+  "titre": "Cours particuliers de droit",
+  "accroche": "Un accompagnement personnalisé pour progresser en méthode et réussir vos examens.",
+  "presentation": [
+    "Étudiant en L2 de droit, parcours droit européen, je propose des cours particuliers aux étudiants de première et de deuxième année. [À COMPLÉTER : vos résultats, votre expérience, ce qui vous motive]",
+    "Mon objectif : vous aider à maîtriser la méthodologie juridique et à comprendre les notions clés plutôt qu'à les apprendre par cœur."
+  ],
+  "public": [
+    "Étudiants de L1 et de L2 en droit",
+    "Étudiants en double licence souhaitant renforcer leur méthode",
+    "[À COMPLÉTER]"
+  ],
+  "matieres": [
+    "Droit de l'Union européenne",
+    "Méthodologie : commentaire d'arrêt, dissertation, cas pratique",
+    "[À COMPLÉTER : autres matières]"
+  ],
+  "deroulement": [
+    "Un premier échange pour faire le point sur vos besoins [À COMPLÉTER : gratuit ?]",
+    "Séances en ligne (visio) ou en présentiel à [À COMPLÉTER : ville]",
+    "Exercices et corrections de copies entre les séances"
+  ],
+  "tarifs": [
+    {
+      "formule": "Séance individuelle",
+      "duree": "1 h",
+      "prix": "[À COMPLÉTER] €",
+      "detail": "En ligne ou en présentiel"
+    },
+    {
+      "formule": "Forfait 5 séances",
+      "duree": "5 × 1 h",
+      "prix": "[À COMPLÉTER] €",
+      "detail": "Tarif dégressif"
+    },
+    {
+      "formule": "Correction de copie",
+      "duree": "Une copie",
+      "prix": "[À COMPLÉTER] €",
+      "detail": "Commentaire, dissertation ou cas pratique, avec annotations détaillées"
+    }
+  ],
+  "contact": {
+    "texte": "Une question, une demande de disponibilités ? Écrivez-moi en précisant votre niveau et la matière concernée.",
+    "email": "votre.adresse@exemple.fr",
+    "objet_du_mail": "Demande de cours particuliers",
+    "texte_du_bouton": "Me contacter par e-mail",
+    "lien_formulaire": "",
+    "texte_du_bouton_formulaire": "Remplir le formulaire de contact"
+  }
+}
