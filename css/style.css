@@ -534,3 +534,22 @@ textarea { min-height: 110px; resize: vertical; }
 .explication-leitner { margin-top: 28px; }
 .explication-leitner summary { cursor: pointer; font-weight: 600; color: var(--primaire); }
 .explication-leitner[open] summary { margin-bottom: 10px; }
+
+/* ---------- 13. Méthodologie ---------- */
+.methode__sommaire {
+  background: #faf9f6;
+  border: 1px solid var(--bordure);
+  border-radius: 8px;
+  padding: 12px 16px;
+  margin: 16px 0;
+  font-size: 0.95rem;
+}
+.methode__sommaire ol { margin: 6px 0 0; padding-left: 1.3em; }
+.methode__sommaire li { margin: 3px 0; }
+.methode__section { scroll-margin-top: 72px; }
+.methode__section h2 { font-size: 1.2rem; border-left: 4px solid var(--accent); padding-left: 10px; }
+.methode__section ul { padding-left: 1.2em; }
+.methode__section li { margin-bottom: 6px; }
+.methode__conseil { font-size: 0.95rem; }
+.groupe-boutons .texte-doux { align-self: center; }
+.methode__exemple { background: #faf9f6; border-left: 4px solid var(--primaire); font-size: 0.95rem; }
