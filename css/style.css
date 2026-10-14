@@ -501,3 +501,36 @@ textarea { min-height: 110px; resize: vertical; }
 .quiz-resultat .groupe-boutons { justify-content: center; }
 .quiz-a-revoir { text-align: left; padding-left: 1.2em; }
 .quiz-a-revoir li { margin-bottom: 8px; }
+
+/* ---------- 12. Flashcards ---------- */
+.stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin: 14px 0; }
+.stats__case { background: var(--primaire-clair); border-radius: 8px; padding: 10px 6px; text-align: center; }
+.stats__valeur { display: block; font-family: var(--police-titres); font-size: 1.5rem; font-weight: bold; color: var(--primaire); }
+.stats__libelle { display: block; font-size: 0.78rem; color: var(--texte-doux); line-height: 1.3; }
+
+.boites { display: grid; grid-template-columns: repeat(6, 1fr); gap: 6px; margin: 8px 0 18px; }
+.boites__colonne { display: flex; flex-direction: column; align-items: center; gap: 4px; }
+.boites__nombre { font-weight: 700; font-size: 0.9rem; }
+.boites__barre { width: 100%; height: 70px; background: #f0efea; border-radius: 6px; display: flex; align-items: flex-end; overflow: hidden; }
+.boites__remplissage { width: 100%; min-height: 2px; background: var(--primaire); }
+.boites__remplissage--0 { background: #b9b6aa; }
+.boites__remplissage--1 { background: var(--erreur); }
+.boites__remplissage--2 { background: #c26a1d; }
+.boites__remplissage--3 { background: #b59a1c; }
+.boites__remplissage--4 { background: #5c8a3a; }
+.boites__remplissage--5 { background: var(--succes); }
+.boites__libelle { font-size: 0.72rem; color: var(--texte-doux); white-space: nowrap; }
+
+.session__haut { display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; color: var(--texte-doux); font-size: 0.9rem; }
+
+.flashcard { min-height: 240px; display: flex; flex-direction: column; margin-bottom: 14px; }
+.flashcard__haut { display: flex; justify-content: space-between; align-items: center; gap: 8px; flex-wrap: wrap; font-size: 0.8rem; }
+.flashcard__theme { font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; color: var(--accent); }
+.flashcard__boite { color: var(--texte-doux); }
+.flashcard__recto { font-family: var(--police-titres); font-size: 1.25rem; color: var(--primaire-fonce); margin: 18px 0 8px; }
+.flashcard__verso { border-top: 2px dashed var(--bordure); padding-top: 14px; margin-top: 8px; font-size: 1.05rem; }
+.flashcard__lien { font-size: 0.9rem; }
+
+.explication-leitner { margin-top: 28px; }
+.explication-leitner summary { cursor: pointer; font-weight: 600; color: var(--primaire); }
+.explication-leitner[open] summary { margin-bottom: 10px; }
