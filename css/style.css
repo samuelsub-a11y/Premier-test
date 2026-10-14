@@ -374,3 +374,67 @@ textarea { min-height: 110px; resize: vertical; }
   body { background: #fff; }
   .carte { box-shadow: none; border: none; padding: 0; }
 }
+
+/* ---------- 10. Fiches d'arrêts ---------- */
+.filtres {
+  display: grid;
+  gap: 12px;
+  grid-template-columns: 1fr;
+  margin: 12px 0;
+}
+@media (min-width: 640px) {
+  .filtres { grid-template-columns: 1fr 1fr; }
+  .filtres__champ--recherche { grid-column: 1 / -1; }
+}
+.filtres__resultat { font-size: 0.9rem; color: var(--texte-doux); margin: 8px 0; }
+
+.carte-fiche { display: flex; flex-direction: column; }
+.carte-fiche__haut { display: flex; justify-content: space-between; align-items: center; gap: 8px; flex-wrap: wrap; }
+.carte-fiche__meta { font-size: 0.85rem; color: var(--texte-doux); }
+.carte-fiche h2 { margin: 6px 0; }
+.carte-fiche p { font-size: 0.95rem; }
+.carte-fiche .etiquettes { margin-top: auto; padding-top: 10px; }
+
+.fil-ariane { margin: 12px 0 8px; font-size: 0.95rem; }
+.fil-ariane a { text-decoration: none; }
+
+.fiche { padding: 20px 18px; }
+.fiche__entete { border-bottom: 1px solid var(--bordure); padding-bottom: 14px; margin-bottom: 8px; }
+.fiche__entete h1 { margin: 2px 0 4px; }
+.fiche__matiere { text-transform: uppercase; letter-spacing: 0.06em; font-size: 0.78rem; font-weight: 700; color: var(--accent); margin: 0; }
+.fiche__intitule { font-style: italic; color: var(--texte-doux); margin-bottom: 4px; }
+.fiche__meta { font-weight: 600; color: var(--primaire); margin-bottom: 4px; }
+
+.bandeau-verifier { display: flex; gap: 10px; align-items: flex-start; flex-wrap: wrap; }
+
+.fiche__rubrique h2 {
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--primaire);
+  border-left: 4px solid var(--accent);
+  padding-left: 10px;
+  margin: 26px 0 10px;
+}
+.fiche__rubrique--encadre {
+  background: var(--primaire-clair);
+  border-radius: 8px;
+  padding: 2px 16px 6px;
+  margin: 20px 0;
+}
+.fiche__rubrique--encadre h2 { margin-top: 16px; }
+.fiche__rubrique--encadre p { font-weight: 600; }
+.fiche__rubrique ul { padding-left: 1.2em; }
+
+.fiche__navigation {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  margin-top: 18px;
+  font-size: 0.95rem;
+}
+.fiche__navigation a { text-decoration: none; }
+
+@media (min-width: 640px) {
+  .fiche { padding: 32px 36px; }
+}

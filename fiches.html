@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Fiches d'arrêts — Révisions de droit</title>
+  <meta name="description" content="Fiches d'arrêts : faits, procédure, problème de droit, solution et portée. Recherche par matière et par thème.">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="js/commun.js" defer></script>
+  <script src="js/fiches.js" defer></script>
+</head>
+<body data-page="fiches">
+  <header id="entete" class="entete"></header>
+
+  <main id="contenu" class="conteneur">
+    <h1>Fiches d'arrêts</h1>
+    <p class="texte-doux">Recherchez un arrêt par son nom, un mot-clé ou filtrez par matière et par thème.</p>
+
+    <form class="filtres carte" role="search" onsubmit="return false">
+      <div class="filtres__champ filtres__champ--recherche">
+        <label for="recherche">Rechercher</label>
+        <input type="search" id="recherche" placeholder="Ex. : primauté, Costa, 1964…" autocomplete="off">
+      </div>
+      <div class="filtres__champ">
+        <label for="filtre-matiere">Matière</label>
+        <select id="filtre-matiere"><option value="">Toutes les matières</option></select>
+      </div>
+      <div class="filtres__champ">
+        <label for="filtre-theme">Thème</label>
+        <select id="filtre-theme"><option value="">Tous les thèmes</option></select>
+      </div>
+    </form>
+
+    <p class="filtres__resultat" id="nombre-resultats" aria-live="polite"></p>
+    <div id="liste-fiches" class="grille grille--2">
+      <p class="chargement">Chargement des fiches…</p>
+    </div>
+  </main>
+
+  <footer id="pied" class="pied"></footer>
+</body>
+</html>

@@ -1,0 +1,150 @@
+[
+  {
+    "id": "van-gend-en-loos",
+    "titre": "Van Gend en Loos",
+    "intitule_complet": "NV Algemene Transport- en Expeditie Onderneming van Gend & Loos c/ Administration fiscale néerlandaise",
+    "juridiction": "CJCE",
+    "date": "5 février 1963",
+    "annee": 1963,
+    "reference": "Aff. 26/62",
+    "matiere": "Droit de l'Union européenne",
+    "themes": ["Effet direct", "Ordre juridique de l'Union", "Renvoi préjudiciel"],
+    "a_verifier": true,
+    "resume": "L'arrêt qui consacre l'effet direct du droit communautaire : les particuliers peuvent invoquer le traité devant leur juge national.",
+    "faits": [
+      "En 1960, la société néerlandaise de transport Van Gend en Loos importe aux Pays-Bas, en provenance d'Allemagne, un produit chimique (de l'urée-formaldéhyde).",
+      "À la suite d'un reclassement tarifaire résultant d'un protocole conclu entre les pays du Benelux, l'administration néerlandaise applique à ce produit un droit de douane de 8 %, alors qu'il n'était taxé qu'à 3 % lors de l'entrée en vigueur du traité CEE, le 1er janvier 1958.",
+      "La société estime que cette augmentation viole l'article 12 du traité CEE, qui interdit aux États membres d'introduire de nouveaux droits de douane ou d'augmenter ceux qu'ils appliquent dans leurs relations commerciales mutuelles."
+    ],
+    "procedure": [
+      "La société conteste le droit de douane devant l'administration, puis forme un recours devant la Tariefcommissie, juridiction administrative néerlandaise statuant en dernier ressort en matière fiscale.",
+      "La Tariefcommissie saisit la Cour de justice de deux questions préjudicielles sur le fondement de l'article 177 du traité CEE (actuel article 267 TFUE).",
+      "Les gouvernements néerlandais et belge contestent la compétence de la Cour, estimant que la question des effets du traité en droit interne relève du seul droit national."
+    ],
+    "probleme": "Un particulier peut-il se prévaloir directement, devant le juge national, d'une disposition du traité CEE (ici l'article 12) pour faire valoir des droits que ce juge doit protéger ?",
+    "solution": [
+      "La Cour se déclare d'abord compétente : elle n'est pas appelée à appliquer le traité au droit néerlandais, mais seulement à interpréter l'article 12.",
+      "Elle affirme ensuite que « la Communauté constitue un nouvel ordre juridique de droit international, au profit duquel les États ont limité, bien que dans des domaines restreints, leurs droits souverains, et dont les sujets sont non seulement les États membres mais également leurs ressortissants ».",
+      "Elle juge que l'article 12 « produit des effets immédiats et engendre des droits individuels que les juridictions internes doivent sauvegarder ». Cette disposition énonce en effet une interdiction **claire et inconditionnelle**, qui constitue une obligation de ne pas faire, n'est assortie d'aucune réserve et ne nécessite aucune mesure d'exécution de la part des États.",
+      "La Cour ajoute que « la vigilance des particuliers intéressés à la sauvegarde de leurs droits » constitue un contrôle efficace qui s'ajoute au recours en manquement confié à la Commission et aux États membres."
+    ],
+    "portee": [
+      "Arrêt fondateur : il consacre le principe de l'**effet direct**, l'un des deux piliers (avec la primauté) de l'ordre juridique de l'Union.",
+      "Il pose les critères de l'effet direct (disposition claire, précise et inconditionnelle), que la jurisprudence ultérieure a repris et assouplis.",
+      "L'effet direct a ensuite été étendu : aux litiges entre particuliers pour certaines dispositions du traité (Defrenne II, 1976) et aux directives non transposées, mais seulement contre l'État (effet direct vertical : Van Duyn, 1974 ; Ratti, 1979). L'effet direct horizontal des directives est en revanche refusé (Marshall, 1986).",
+      "Il fait du particulier un acteur du respect du droit de l'Union et du renvoi préjudiciel un instrument central du dialogue entre la Cour et les juges nationaux."
+    ],
+    "textes": ["Art. 12 TCEE (actuel art. 30 TFUE)", "Art. 177 TCEE (actuel art. 267 TFUE)"]
+  },
+  {
+    "id": "costa-enel",
+    "titre": "Costa c/ ENEL",
+    "intitule_complet": "Flaminio Costa c/ E.N.E.L.",
+    "juridiction": "CJCE",
+    "date": "15 juillet 1964",
+    "annee": 1964,
+    "reference": "Aff. 6/64",
+    "matiere": "Droit de l'Union européenne",
+    "themes": ["Primauté", "Ordre juridique de l'Union"],
+    "a_verifier": true,
+    "resume": "L'arrêt qui consacre la primauté du droit communautaire sur le droit national, même postérieur.",
+    "faits": [
+      "En 1962, l'Italie nationalise la production et la distribution d'électricité et crée un établissement public, l'ENEL (Ente nazionale per l'energia elettrica), auquel sont transférés les biens des entreprises électriques.",
+      "M. Flaminio Costa, avocat et actionnaire d'une société touchée par la nationalisation, refuse de payer une facture d'électricité d'un faible montant (environ 1 925 lires) émise par l'ENEL."
+    ],
+    "procedure": [
+      "Le litige est porté devant le giudice conciliatore de Milan (juge de première instance pour les petits litiges). M. Costa soutient que la loi de nationalisation est contraire à plusieurs dispositions du traité CEE.",
+      "Le juge milanais saisit la Cour de justice à titre préjudiciel (article 177 TCEE).",
+      "Entre-temps, la Cour constitutionnelle italienne, également saisie, a jugé le 7 mars 1964 que le traité, introduit en droit italien par une loi ordinaire, devait céder devant une loi postérieure contraire (règle « la loi postérieure l'emporte »).",
+      "Devant la Cour de justice, le gouvernement italien soutient que la demande est « absolument irrecevable », le juge national étant tenu d'appliquer la loi nationale."
+    ],
+    "probleme": "En cas de conflit entre une norme communautaire et une loi nationale postérieure, un État membre peut-il faire prévaloir sa loi ? Quelle norme le juge national doit-il appliquer ?",
+    "solution": [
+      "« À la différence des traités internationaux ordinaires, le traité de la CEE a institué un ordre juridique propre, intégré au système juridique des États membres lors de l'entrée en vigueur du traité et qui s'impose à leurs juridictions. »",
+      "En instituant une Communauté dotée d'institutions, de la personnalité juridique et de pouvoirs réels issus d'une limitation de compétence ou d'un transfert d'attributions, les États ont limité leurs droits souverains et créé un corps de droit applicable à leurs ressortissants et à eux-mêmes.",
+      "Dès lors, « issu d'une source autonome, le droit né du traité ne pourrait […] se voir judiciairement opposer un texte interne quel qu'il soit, sans perdre son caractère communautaire et sans que soit mise en cause la base juridique de la Communauté elle-même ». La force du droit communautaire ne saurait varier d'un État à l'autre au gré des législations internes ultérieures.",
+      "Sur le fond, la Cour précise que certaines dispositions invoquées ne créent pas de droits au profit des particuliers (art. 102 et 93 TCEE), à la différence d'autres (art. 53 et 37 § 2 TCEE)."
+    ],
+    "portee": [
+      "Arrêt fondateur du principe de **primauté** du droit de l'Union sur le droit national, que les traités ne mentionnent pas expressément.",
+      "La primauté est absolue : elle vaut à l'égard de toute norme nationale, même de rang constitutionnel (Internationale Handelsgesellschaft, 17 décembre 1970).",
+      "Ses conséquences pratiques pour le juge national seront précisées par l'arrêt Simmenthal (1978).",
+      "En France, la primauté des traités sur les lois postérieures a été admise par la Cour de cassation (Jacques Vabre, 24 mai 1975) puis par le Conseil d'État (Nicolo, 20 octobre 1989), sur le fondement de l'article 55 de la Constitution.",
+      "Le traité de Lisbonne ne consacre pas la primauté dans son texte, mais la déclaration n° 17 qui lui est annexée rappelle cette jurisprudence constante."
+    ],
+    "textes": ["Art. 177 TCEE (actuel art. 267 TFUE)", "Art. 189 TCEE (actuel art. 288 TFUE)"]
+  },
+  {
+    "id": "simmenthal",
+    "titre": "Simmenthal",
+    "intitule_complet": "Administration des finances de l'État c/ Société anonyme Simmenthal",
+    "juridiction": "CJCE",
+    "date": "9 mars 1978",
+    "annee": 1978,
+    "reference": "Aff. 106/77",
+    "matiere": "Droit de l'Union européenne",
+    "themes": ["Primauté", "Office du juge national"],
+    "a_verifier": true,
+    "resume": "Tout juge national doit laisser inappliquée, de sa propre autorité, la loi nationale contraire au droit communautaire, sans attendre son abrogation.",
+    "faits": [
+      "La société Simmenthal importe en Italie de la viande bovine en provenance de France. À la frontière, elle doit payer des droits pour des contrôles vétérinaires et sanitaires imposés par la législation italienne.",
+      "Dans une première affaire (Simmenthal, 15 décembre 1976, aff. 35/76), la Cour de justice avait déjà jugé ces droits contraires au droit communautaire, car constitutifs de taxes d'effet équivalent à des droits de douane."
+    ],
+    "procedure": [
+      "Le pretore de Susa (juge italien de première instance) ordonne à l'Administration des finances de rembourser les sommes perçues. L'Administration forme opposition.",
+      "La loi italienne en cause étant postérieure aux règlements communautaires, la jurisprudence constitutionnelle italienne de l'époque imposait au juge ordinaire de saisir la Cour constitutionnelle, seule compétente pour écarter une telle loi.",
+      "Le pretore saisit alors la Cour de justice pour savoir si ce mécanisme est compatible avec le droit communautaire."
+    ],
+    "probleme": "Le juge national confronté à une loi nationale contraire au droit communautaire doit-il attendre que cette loi soit abrogée par le législateur ou déclarée inconstitutionnelle, ou doit-il l'écarter lui-même immédiatement ?",
+    "solution": [
+      "Les dispositions du droit communautaire directement applicables rendent « inapplicable de plein droit, du fait même de leur entrée en vigueur, toute disposition contraire de la législation nationale existante » et empêchent la formation valable de nouveaux actes législatifs nationaux incompatibles.",
+      "Par conséquent, « le juge national chargé d'appliquer, dans le cadre de sa compétence, les dispositions du droit communautaire, a l'obligation d'assurer le plein effet de ces normes en laissant au besoin inappliquée, de sa propre autorité, toute disposition contraire de la législation nationale, même postérieure, sans qu'il ait à demander ou à attendre l'élimination préalable de celle-ci par voie législative ou par tout autre procédé constitutionnel ».",
+      "Est incompatible avec le droit communautaire toute règle nationale qui empêche le juge de faire, au moment même de l'application, tout ce qui est nécessaire pour écarter la loi contraire, même si cet obstacle n'est que temporaire."
+    ],
+    "portee": [
+      "L'arrêt tire les conséquences concrètes de la primauté (Costa c/ ENEL) : tout juge national, quel que soit son rang, est **juge de droit commun du droit de l'Union** et doit écarter lui-même la norme nationale contraire.",
+      "Il s'agit d'une **inapplicabilité** (le juge laisse la loi de côté dans le litige qu'il tranche) et non d'une annulation ou d'une abrogation de la loi.",
+      "La Cour en a déduit que le juge national doit pouvoir accorder des mesures provisoires pour protéger les droits tirés du droit de l'Union, même à l'encontre d'une loi (Factortame, 19 juin 1990).",
+      "La Cour constitutionnelle italienne s'est ralliée à cette solution (arrêt Granital, 1984).",
+      "En France, la priorité de la question prioritaire de constitutionnalité (QPC) a été jugée compatible avec le droit de l'Union, à condition que le juge reste libre de saisir la Cour de justice et d'écarter la loi contraire (Melki et Abdeli, 22 juin 2010)."
+    ],
+    "textes": ["Art. 177 TCEE (actuel art. 267 TFUE)", "Art. 189 TCEE (actuel art. 288 TFUE)"]
+  },
+  {
+    "id": "cassis-de-dijon",
+    "titre": "Cassis de Dijon",
+    "intitule_complet": "Rewe-Zentral AG c/ Bundesmonopolverwaltung für Branntwein",
+    "juridiction": "CJCE",
+    "date": "20 février 1979",
+    "annee": 1979,
+    "reference": "Aff. 120/78",
+    "matiere": "Droit de l'Union européenne",
+    "themes": ["Libre circulation des marchandises", "Reconnaissance mutuelle", "Exigences impératives"],
+    "a_verifier": true,
+    "resume": "Un produit légalement fabriqué et commercialisé dans un État membre doit pouvoir être vendu dans les autres : c'est la reconnaissance mutuelle.",
+    "faits": [
+      "La société allemande Rewe-Zentral souhaite importer en Allemagne, pour la commercialiser, une liqueur française, le « Cassis de Dijon », dont la teneur en alcool est comprise entre 15 et 20 % environ.",
+      "L'administration fédérale allemande du monopole des alcools (Bundesmonopolverwaltung für Branntwein) lui indique que ce produit ne peut pas être commercialisé en Allemagne, la réglementation allemande imposant aux liqueurs de fruits une teneur minimale en alcool de 25 %."
+    ],
+    "procedure": [
+      "Rewe conteste cette décision devant le Hessisches Finanzgericht (tribunal des finances du Land de Hesse).",
+      "Cette juridiction saisit la Cour de justice à titre préjudiciel pour savoir si une telle exigence constitue une mesure d'effet équivalent à une restriction quantitative à l'importation, interdite par l'article 30 du traité CEE (actuel article 34 TFUE).",
+      "Le gouvernement allemand justifie sa réglementation par la protection de la santé publique (éviter la multiplication de boissons faiblement alcoolisées, qui favoriseraient l'accoutumance) et par la protection des consommateurs contre des pratiques commerciales déloyales."
+    ],
+    "probleme": "Une réglementation nationale imposant une teneur minimale en alcool, applicable indistinctement aux produits nationaux et importés, constitue-t-elle une mesure d'effet équivalent à une restriction quantitative interdite par le traité ? Si oui, peut-elle être justifiée ?",
+    "solution": [
+      "En l'absence de réglementation commune, il appartient aux États membres de régler la production et la commercialisation des produits sur leur territoire.",
+      "Toutefois, « les obstacles à la circulation intracommunautaire résultant de disparités des législations nationales relatives à la commercialisation des produits en cause doivent être acceptés dans la mesure où ces prescriptions peuvent être reconnues comme étant nécessaires pour satisfaire à des **exigences impératives** tenant, en particulier, à l'efficacité des contrôles fiscaux, à la protection de la santé publique, à la loyauté des transactions commerciales et à la défense des consommateurs ».",
+      "En l'espèce, l'exigence n'est pas justifiée : l'argument de santé publique n'est pas convaincant (de nombreuses boissons faiblement alcoolisées sont déjà en vente, et les boissons fortes sont souvent consommées diluées), et l'information du consommateur peut être assurée par un moyen moins restrictif, l'indication de l'origine et du degré d'alcool sur l'étiquette.",
+      "Ainsi, « il n'y a aucun motif valable d'empêcher que des boissons alcoolisées, à condition qu'elles soient légalement produites et commercialisées dans l'un des États membres, soient introduites dans tout autre État membre ». La teneur minimale imposée constitue une mesure d'effet équivalent interdite par l'article 30 TCEE."
+    ],
+    "portee": [
+      "L'arrêt consacre le principe de **reconnaissance mutuelle** : un produit légalement fabriqué et commercialisé dans un État membre doit, en principe, pouvoir circuler dans toute l'Union.",
+      "Il confirme que des mesures **indistinctement applicables** (visant aussi bien les produits nationaux qu'importés) peuvent constituer des mesures d'effet équivalent, dans le prolongement de l'arrêt Dassonville (11 juillet 1974).",
+      "Il crée la catégorie des **exigences impératives**, justifications d'origine jurisprudentielle qui s'ajoutent à celles de l'article 36 TCEE (actuel art. 36 TFUE). Leur liste est ouverte : la Cour y a ajouté par exemple la protection de l'environnement (Commission c/ Danemark, 20 septembre 1988, « bouteilles consignées »). Les mesures doivent respecter le principe de proportionnalité.",
+      "Cette jurisprudence a été encadrée par l'arrêt Keck et Mithouard (24 novembre 1993), qui exclut du champ de l'article 34 TFUE certaines « modalités de vente » non discriminatoires.",
+      "La reconnaissance mutuelle a inspiré la « nouvelle approche » de l'harmonisation et fait aujourd'hui l'objet du règlement (UE) 2019/515."
+    ],
+    "textes": ["Art. 30 TCEE (actuel art. 34 TFUE)", "Art. 36 TCEE (actuel art. 36 TFUE)"]
+  }
+]

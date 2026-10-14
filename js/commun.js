@@ -56,9 +56,15 @@ function echapper(texte) {
   })[c]);
 }
 
-/** Échappe le texte puis transforme **ceci** en gras. */
+/**
+ * Échappe le texte, transforme **ceci** en gras et place des espaces
+ * insécables avant ? ! : ; » et après « (typographie française).
+ */
 function mettreEnForme(texte) {
-  return echapper(texte).replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>");
+  return echapper(texte)
+    .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
+    .replace(/ ([?!:;»])/g, " $1")
+    .replace(/« /g, "« ");
 }
 
 /** Accepte un texte ou une liste de textes et renvoie des paragraphes HTML. */
