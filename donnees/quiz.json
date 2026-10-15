@@ -1,0 +1,124 @@
+[
+  {
+    "id": "q-vgl-principe",
+    "type": "qcm",
+    "matiere": "Droit de l'Union européenne",
+    "arret": "van-gend-en-loos",
+    "a_verifier": true,
+    "question": "Quel arrêt de la Cour de justice consacre le principe de l'effet direct du droit communautaire ?",
+    "choix": ["Costa c/ ENEL (1964)", "Van Gend en Loos (1963)", "Simmenthal (1978)", "Cassis de Dijon (1979)"],
+    "bonne_reponse": 2,
+    "explication": "L'arrêt Van Gend en Loos du 5 février 1963 juge que l'article 12 du traité CEE « produit des effets immédiats et engendre des droits individuels que les juridictions internes doivent sauvegarder ». Costa c/ ENEL consacre, lui, la primauté."
+  },
+  {
+    "id": "q-vgl-sujets",
+    "type": "qcm",
+    "matiere": "Droit de l'Union européenne",
+    "arret": "van-gend-en-loos",
+    "a_verifier": true,
+    "question": "Selon l'arrêt Van Gend en Loos, qui sont les sujets du « nouvel ordre juridique de droit international » créé par la Communauté ?",
+    "choix": ["Les seuls États membres", "Les seules institutions communautaires", "Les États membres et leurs ressortissants", "Les seuls ressortissants des États membres"],
+    "bonne_reponse": 3,
+    "explication": "La Cour affirme que les sujets de ce nouvel ordre juridique sont « non seulement les États membres mais également leurs ressortissants ». C'est ce qui justifie que les particuliers puissent invoquer le traité devant leur juge."
+  },
+  {
+    "id": "q-vgl-solution",
+    "type": "solution",
+    "matiere": "Droit de l'Union européenne",
+    "arret": "van-gend-en-loos",
+    "a_verifier": true,
+    "question": "Quelle est la solution de l'arrêt Van Gend en Loos (CJCE, 5 février 1963) ?",
+    "reponse": "La Cour juge que la Communauté constitue un nouvel ordre juridique dont les sujets sont les États et leurs ressortissants. L'article 12 du traité CEE, qui énonce une interdiction claire et inconditionnelle ne nécessitant aucune mesure d'exécution, produit des effets directs : il crée des droits individuels que les particuliers peuvent invoquer et que les juridictions nationales doivent sauvegarder.",
+    "explication": "Points à mentionner : l'ordre juridique nouveau, les critères de l'effet direct (clarté, caractère inconditionnel, absence de mesure d'exécution) et le rôle du juge national. Bonus : la « vigilance des particuliers » complète le recours en manquement."
+  },
+  {
+    "id": "q-costa-juge",
+    "type": "qcm",
+    "matiere": "Droit de l'Union européenne",
+    "arret": "costa-enel",
+    "a_verifier": true,
+    "question": "Dans l'affaire Costa c/ ENEL, quelle juridiction italienne a saisi la Cour de justice à titre préjudiciel ?",
+    "choix": ["Le giudice conciliatore de Milan", "La Cour constitutionnelle italienne", "La Cour de cassation italienne", "Le Conseil d'État italien"],
+    "bonne_reponse": 1,
+    "explication": "C'est le giudice conciliatore de Milan, juge des petits litiges, qui a saisi la Cour. Cela illustre que toute juridiction nationale, même de premier degré, peut poser une question préjudicielle."
+  },
+  {
+    "id": "q-costa-solution",
+    "type": "solution",
+    "matiere": "Droit de l'Union européenne",
+    "arret": "costa-enel",
+    "a_verifier": true,
+    "question": "Quelle est la solution de l'arrêt Costa c/ ENEL (CJCE, 15 juillet 1964) ?",
+    "reponse": "À la différence des traités internationaux ordinaires, le traité CEE a institué un ordre juridique propre, intégré au système juridique des États membres et qui s'impose à leurs juridictions. Issu d'une source autonome, le droit communautaire ne peut se voir opposer un texte interne quel qu'il soit, même postérieur : il prime sur le droit national.",
+    "explication": "Points à mentionner : l'ordre juridique propre et intégré, la limitation des droits souverains des États, et l'impossibilité d'opposer une loi nationale, même postérieure, au droit communautaire (principe de primauté)."
+  },
+  {
+    "id": "q-simmenthal-juge",
+    "type": "qcm",
+    "matiere": "Droit de l'Union européenne",
+    "arret": "simmenthal",
+    "a_verifier": true,
+    "question": "Selon l'arrêt Simmenthal, que doit faire le juge national face à une loi nationale contraire au droit communautaire ?",
+    "choix": ["Saisir la Cour constitutionnelle de son pays", "Attendre que le législateur abroge la loi", "Annuler la loi", "Laisser la loi inappliquée, de sa propre autorité"],
+    "bonne_reponse": 4,
+    "explication": "Le juge doit laisser « au besoin inappliquée, de sa propre autorité, toute disposition contraire de la législation nationale, même postérieure », sans attendre son élimination par voie législative ou constitutionnelle. Attention : il n'annule pas la loi, il l'écarte dans le litige."
+  },
+  {
+    "id": "q-simmenthal-solution",
+    "type": "solution",
+    "matiere": "Droit de l'Union européenne",
+    "arret": "simmenthal",
+    "a_verifier": true,
+    "question": "Quelle est la solution de l'arrêt Simmenthal (CJCE, 9 mars 1978) ?",
+    "reponse": "Le juge national chargé d'appliquer le droit communautaire a l'obligation d'assurer le plein effet de ces normes en laissant au besoin inappliquée, de sa propre autorité, toute disposition contraire de la législation nationale, même postérieure, sans avoir à demander ou à attendre son élimination préalable par voie législative ou par tout autre procédé constitutionnel.",
+    "explication": "Points à mentionner : l'inapplicabilité de plein droit de la norme nationale contraire, le pouvoir propre du juge ordinaire (pas besoin de saisir la juridiction constitutionnelle) et le lien avec la primauté posée par Costa c/ ENEL."
+  },
+  {
+    "id": "q-cassis-principe",
+    "type": "qcm",
+    "matiere": "Droit de l'Union européenne",
+    "arret": "cassis-de-dijon",
+    "a_verifier": true,
+    "question": "Quel principe l'arrêt Cassis de Dijon consacre-t-il en matière de libre circulation des marchandises ?",
+    "choix": ["Le principe de reconnaissance mutuelle", "Le principe de subsidiarité", "Le principe de primauté", "Le principe d'attribution des compétences"],
+    "bonne_reponse": 1,
+    "explication": "Un produit légalement produit et commercialisé dans un État membre doit, en principe, pouvoir être vendu dans les autres États membres : c'est la reconnaissance mutuelle."
+  },
+  {
+    "id": "q-cassis-exigences",
+    "type": "qcm",
+    "matiere": "Droit de l'Union européenne",
+    "arret": "cassis-de-dijon",
+    "a_verifier": true,
+    "question": "Que sont les « exigences impératives » dégagées par l'arrêt Cassis de Dijon ?",
+    "choix": [
+      "Une liste fermée de justifications prévue par le traité",
+      "Des justifications d'origine jurisprudentielle, en liste ouverte, soumises au principe de proportionnalité",
+      "Des obligations imposées aux importateurs",
+      "Des règles d'harmonisation adoptées par le Conseil"
+    ],
+    "bonne_reponse": 2,
+    "explication": "Les exigences impératives (efficacité des contrôles fiscaux, santé publique, loyauté des transactions commerciales, défense des consommateurs…) s'ajoutent aux justifications de l'article 36 TCEE. La liste est ouverte (ex. protection de l'environnement en 1988) et la mesure doit être proportionnée."
+  },
+  {
+    "id": "q-cassis-solution",
+    "type": "solution",
+    "matiere": "Droit de l'Union européenne",
+    "arret": "cassis-de-dijon",
+    "a_verifier": true,
+    "question": "Quelle est la solution de l'arrêt Cassis de Dijon (CJCE, 20 février 1979) ?",
+    "reponse": "Une réglementation imposant une teneur minimale en alcool, même applicable indistinctement aux produits nationaux et importés, constitue une mesure d'effet équivalent interdite par l'article 30 TCEE. Les obstacles résultant des disparités de législations ne sont admis que s'ils sont nécessaires pour satisfaire à des exigences impératives, ce qui n'est pas le cas ici : un étiquetage suffit à informer le consommateur. Une boisson légalement produite et commercialisée dans un État membre doit pouvoir être vendue dans les autres.",
+    "explication": "Points à mentionner : les mesures indistinctement applicables, les exigences impératives et leur contrôle de proportionnalité, et la reconnaissance mutuelle."
+  },
+  {
+    "id": "q-primaute-france",
+    "type": "qcm",
+    "matiere": "Droit de l'Union européenne",
+    "arret": "costa-enel",
+    "a_verifier": true,
+    "question": "Par quel arrêt le Conseil d'État a-t-il accepté de faire prévaloir un traité sur une loi française postérieure ?",
+    "choix": ["Jacques Vabre (1975)", "Nicolo (1989)", "Sarran (1998)", "Arcelor (2007)"],
+    "bonne_reponse": 2,
+    "explication": "Le Conseil d'État s'est rallié à la primauté des traités sur la loi postérieure avec l'arrêt Nicolo du 20 octobre 1989. L'arrêt Jacques Vabre (24 mai 1975) est celui de la Cour de cassation."
+  }
+]

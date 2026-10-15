@@ -1,0 +1,200 @@
+[
+  {
+    "id": "commentaire",
+    "titre": "Le commentaire d'arrêt",
+    "resume": "Expliquer une décision de justice : ce qu'elle dit, si elle est fondée et quelle est son influence.",
+    "a_verifier": true,
+    "sections": [
+      {
+        "titre": "L'objectif de l'exercice",
+        "texte": [
+          "Commenter un arrêt, c'est expliquer et discuter **une décision précise**. On attend de vous trois choses : en dégager le **sens** (que dit le juge ?), en apprécier la **valeur** (la solution est-elle juridiquement fondée, opportune ?) et en mesurer la **portée** (quelle influence a-t-elle eue ou aura-t-elle ?).",
+          "Le commentaire n'est pas une dissertation sur le thème de l'arrêt : chaque développement doit partir de la décision et y revenir."
+        ]
+      },
+      {
+        "titre": "Étape 1 : analyser la décision (la fiche d'arrêt)",
+        "texte": ["Lisez l'arrêt plusieurs fois, crayon en main, puis rédigez au brouillon une fiche d'arrêt :"],
+        "liste": [
+          "**Les faits** : ce qui s'est passé avant tout procès, présenté de façon juridique (« un employeur », « un État membre », plutôt que des noms propres).",
+          "**La procédure** : les juridictions saisies successivement et leurs décisions (pour la CJUE : la juridiction de renvoi et les questions posées).",
+          "**Les prétentions des parties** : ce que chacune demande et sur quels arguments.",
+          "**Le problème de droit** : la question juridique que le juge doit trancher, formulée de façon générale et en une phrase interrogative.",
+          "**La solution** : la réponse du juge et ses motifs. Repérez les phrases de principe, souvent les plus citées."
+        ],
+        "conseil": "Pour un arrêt de la Cour de justice, distinguez bien les motifs (le raisonnement) du dispositif (la réponse finale, à la fin de l'arrêt)."
+      },
+      {
+        "titre": "Étape 2 : situer la décision",
+        "liste": [
+          "Quel était l'état du droit avant l'arrêt ? S'agit-il d'une confirmation, d'une précision ou d'un revirement de jurisprudence ?",
+          "Est-ce un arrêt de principe (règle générale, formulée de façon abstraite) ou un arrêt d'espèce (solution liée aux faits) ?",
+          "Quelle formation a statué ? (Pour la CJUE : chambre, grande chambre, assemblée plénière.)",
+          "Comment la décision a-t-elle été reçue et appliquée ensuite (jurisprudence postérieure, réforme des textes, doctrine) ?"
+        ]
+      },
+      {
+        "titre": "Étape 3 : construire le plan",
+        "texte": [
+          "Le plan classique comporte **deux parties et deux sous-parties** (I. A. B. / II. A. B.), avec des titres apparents.",
+          "Le plan doit être tiré de la décision elle-même : suivez souvent le raisonnement du juge (par exemple, I. la consécration d'un principe, II. sa mise en œuvre). Le sens, la valeur et la portée se répartissent dans tout le devoir, et non dans des parties séparées."
+        ],
+        "liste": [
+          "Des titres courts, informatifs, qui annoncent une idée (pas seulement un thème).",
+          "Des parties équilibrées.",
+          "Une courte phrase d'annonce (chapeau) au début de chaque partie, et une transition entre les deux parties."
+        ],
+        "conseil": "Évitez le plan « I. Le sens de l'arrêt / II. La portée de l'arrêt », souvent jugé trop mécanique. Demandez à votre chargé de TD ce qu'il attend."
+      },
+      {
+        "titre": "Étape 4 : rédiger l'introduction",
+        "texte": ["L'introduction est essentielle : le correcteur s'en sert pour juger de votre compréhension de l'arrêt. Elle suit en général cet ordre :"],
+        "liste": [
+          "Une **phrase d'accroche** en lien direct avec l'arrêt (une citation, un contexte, un enjeu).",
+          "La présentation de la décision : juridiction, date, objet.",
+          "Les faits, la procédure et les prétentions des parties.",
+          "Le **problème de droit**.",
+          "La **solution** retenue par le juge.",
+          "L'intérêt de l'arrêt et l'**annonce du plan**."
+        ]
+      },
+      {
+        "titre": "Les erreurs à éviter",
+        "liste": [
+          "La **paraphrase** : répéter l'arrêt avec d'autres mots, sans l'expliquer.",
+          "La **récitation de cours** sans lien avec la décision commentée.",
+          "Oublier de citer l'arrêt : appuyez chaque idée sur un passage de la décision.",
+          "Un problème de droit trop proche des faits (« M. X peut-il obtenir… ? ») ou, à l'inverse, trop vague.",
+          "Des parties déséquilibrées ou une seconde partie bâclée faute de temps."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dissertation",
+    "titre": "La dissertation juridique",
+    "resume": "Répondre à une question juridique par une démonstration structurée et argumentée.",
+    "a_verifier": true,
+    "sections": [
+      {
+        "titre": "L'objectif de l'exercice",
+        "texte": [
+          "La dissertation consiste à traiter un sujet théorique en construisant une **démonstration**. Il ne s'agit pas de réciter tout ce que l'on sait sur le thème, mais de répondre à une question précise, la **problématique**, de façon organisée."
+        ]
+      },
+      {
+        "titre": "Étape 1 : analyser le sujet",
+        "liste": [
+          "**Définir chaque terme** du sujet, y compris les mots qui paraissent simples (« et », « le », un pluriel…).",
+          "**Délimiter** le sujet : dans le temps, dans l'espace (droit français, droit de l'Union…), dans la matière.",
+          "Identifier le **type de sujet** : une notion (« La primauté du droit de l'Union »), une comparaison (« Effet direct et primauté »), une question (« Le juge national est-il le juge de droit commun du droit de l'Union ? ») ou une citation à discuter.",
+          "Repérer ce qui est hors sujet pour ne pas s'y égarer."
+        ]
+      },
+      {
+        "titre": "Étape 2 : rassembler les connaissances",
+        "texte": [
+          "Au brouillon, notez en vrac tout ce qui se rapporte au sujet : textes (traités, Constitution, lois), jurisprudence (avec la juridiction et la date), positions de la doctrine, évolutions récentes.",
+          "Classez ensuite ces éléments : ils serviront à construire le plan et à illustrer chaque idée."
+        ]
+      },
+      {
+        "titre": "Étape 3 : trouver la problématique",
+        "texte": [
+          "La problématique est la question centrale à laquelle votre devoir répond. Elle fait apparaître **l'enjeu** ou la **tension** du sujet (une évolution, une contradiction, une limite).",
+          "Elle ne doit pas se contenter de reformuler le sujet sous forme de question."
+        ],
+        "conseil": "Un bon test : si votre problématique peut recevoir une réponse simple par « oui » ou « non » sans démonstration, elle est probablement trop pauvre."
+      },
+      {
+        "titre": "Étape 4 : construire le plan",
+        "texte": ["Comme pour le commentaire, le plan comporte en principe **deux parties et deux sous-parties**, avec des titres apparents."],
+        "liste": [
+          "Le plan doit être **démonstratif** : chaque partie fait avancer la réponse à la problématique.",
+          "Il doit être **équilibré** et ne pas laisser de côté un aspect essentiel du sujet.",
+          "Les plans types (« principe / exceptions », « conditions / effets », « affirmation / limites ») sont utiles s'ils correspondent vraiment au sujet.",
+          "Rédigez un chapeau au début de chaque partie et une transition entre les deux."
+        ]
+      },
+      {
+        "titre": "Étape 5 : rédiger l'introduction",
+        "liste": [
+          "Une **accroche** en lien avec le sujet.",
+          "La **définition** des termes et la délimitation du sujet.",
+          "Le **contexte** historique et juridique.",
+          "L'**intérêt** du sujet (théorique et pratique).",
+          "La **problématique**.",
+          "L'**annonce du plan**."
+        ]
+      },
+      {
+        "titre": "Les erreurs à éviter",
+        "liste": [
+          "Le **hors-sujet**, souvent dû à une mauvaise définition des termes.",
+          "Le **catalogue** : une suite de connaissances sans fil directeur.",
+          "Un plan purement descriptif qui ne répond pas à la problématique.",
+          "Des affirmations sans appui (texte, arrêt, auteur)."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cas-pratique",
+    "titre": "Le cas pratique",
+    "resume": "Résoudre une situation concrète en appliquant les règles de droit, comme le ferait un juriste conseil.",
+    "a_verifier": true,
+    "sections": [
+      {
+        "titre": "L'objectif de l'exercice",
+        "texte": [
+          "Le cas pratique vous place dans la situation d'un juriste consulté par un client. À partir d'un énoncé, vous devez identifier les problèmes juridiques, rechercher les règles applicables et **donner une réponse argumentée** à chaque question."
+        ]
+      },
+      {
+        "titre": "Étape 1 : lire et qualifier les faits",
+        "liste": [
+          "Lisez l'énoncé plusieurs fois et relevez les personnes, les dates, les montants et les actes accomplis.",
+          "Distinguez les faits juridiquement utiles des détails sans importance.",
+          "**Qualifiez** les faits : donnez-leur leur nom juridique (une « mesure d'effet équivalent », une « directive non transposée »…). C'est cette qualification qui permet de trouver la règle applicable."
+        ]
+      },
+      {
+        "titre": "Étape 2 : identifier les problèmes de droit",
+        "texte": [
+          "Chaque question de l'énoncé peut contenir un ou plusieurs problèmes de droit. Formulez-les clairement et traitez-les dans un **ordre logique** (par exemple, la recevabilité avant le fond)."
+        ]
+      },
+      {
+        "titre": "Étape 3 : raisonner par syllogisme",
+        "texte": ["Pour chaque problème, appliquez le **syllogisme juridique** :"],
+        "liste": [
+          "**La majeure** : la règle de droit applicable (texte, jurisprudence), exposée avec précision.",
+          "**La mineure** : l'application de cette règle aux faits de l'espèce. C'est la partie la plus importante : montrez pourquoi les faits remplissent (ou non) chaque condition de la règle.",
+          "**La conclusion** : la réponse claire à la question posée."
+        ],
+        "exemple": [
+          "**Majeure** : l'article 34 TFUE interdit les mesures d'effet équivalent à des restrictions quantitatives à l'importation, sauf justification par l'article 36 TFUE ou par une exigence impérative, à condition que la mesure soit proportionnée (Cassis de Dijon).",
+          "**Mineure** : la réglementation de l'État X, qui interdit la vente d'un produit légalement fabriqué dans un autre État membre, entrave les importations. L'objectif invoqué (informer le consommateur) pourrait être atteint par un simple étiquetage.",
+          "**Conclusion** : la mesure est disproportionnée et donc contraire au droit de l'Union."
+        ]
+      },
+      {
+        "titre": "Étape 4 : structurer la copie",
+        "liste": [
+          "Une **courte introduction** : résumé des faits utiles et annonce des problèmes traités.",
+          "Pour chaque problème : le problème de droit, puis majeure, mineure et conclusion.",
+          "Un plan en deux parties n'est pas obligatoire : suivez l'ordre des questions ou des problèmes, avec des titres clairs."
+        ]
+      },
+      {
+        "titre": "Les erreurs à éviter",
+        "liste": [
+          "Réciter le cours sans l'**appliquer** aux faits.",
+          "Oublier de **conclure** : le client attend une réponse.",
+          "Inventer des faits. Si une information manque, raisonnez par **hypothèses** (« si… alors… ; en revanche, si… »).",
+          "Ne traiter qu'une partie des problèmes posés."
+        ]
+      }
+    ]
+  }
+]

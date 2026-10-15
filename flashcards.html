@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Flashcards — Révisions de droit</title>
+  <meta name="description" content="Flashcards de droit avec répétition espacée : mémorisez les grands arrêts durablement.">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="js/commun.js" defer></script>
+  <script src="js/flashcards.js" defer></script>
+</head>
+<body data-page="flashcards">
+  <header id="entete" class="entete"></header>
+
+  <main id="contenu" class="conteneur conteneur--etroit">
+    <h1>Flashcards</h1>
+    <div id="flashcards" aria-live="polite">
+      <p class="chargement">Chargement des cartes…</p>
+    </div>
+
+    <details class="carte explication-leitner">
+      <summary>Comment fonctionne la répétition espacée ?</summary>
+      <p>Les cartes sont rangées dans 5 boîtes. Une carte nouvelle ou oubliée est en boîte 1 et revient le jour même.</p>
+      <p>Chaque fois que vous répondez « Je savais », la carte monte d'une boîte et revient plus tard : 1 jour (boîte 2), 3 jours (boîte 3), 7 jours (boîte 4), puis 14 jours (boîte 5). Si vous répondez « À revoir », elle retourne en boîte 1.</p>
+      <p>Ainsi, vous passez plus de temps sur ce que vous ne savez pas encore. Votre progression est enregistrée dans ce navigateur, sur cet appareil.</p>
+    </details>
+  </main>
+
+  <footer id="pied" class="pied"></footer>
+</body>
+</html>

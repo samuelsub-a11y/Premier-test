@@ -1,0 +1,137 @@
+[
+  {
+    "id": "fc-vgl-date",
+    "matiere": "Droit de l'Union européenne",
+    "theme": "Effet direct",
+    "arret": "van-gend-en-loos",
+    "a_verifier": true,
+    "recto": "Van Gend en Loos : juridiction, date et référence ?",
+    "verso": "CJCE, 5 février 1963, aff. 26/62."
+  },
+  {
+    "id": "fc-vgl-principe",
+    "matiere": "Droit de l'Union européenne",
+    "theme": "Effet direct",
+    "arret": "van-gend-en-loos",
+    "a_verifier": true,
+    "recto": "Quel principe l'arrêt Van Gend en Loos consacre-t-il ?",
+    "verso": "L'**effet direct** : les particuliers peuvent invoquer certaines dispositions du droit communautaire devant leur juge national, qui doit protéger les droits qu'elles leur confèrent."
+  },
+  {
+    "id": "fc-vgl-criteres",
+    "matiere": "Droit de l'Union européenne",
+    "theme": "Effet direct",
+    "arret": "van-gend-en-loos",
+    "a_verifier": true,
+    "recto": "Quelles sont les conditions de l'effet direct selon Van Gend en Loos ?",
+    "verso": "Une disposition **claire**, **inconditionnelle** (sans réserve) et qui ne nécessite **aucune mesure d'exécution** de la part des États. La jurisprudence parle aujourd'hui de disposition claire, précise et inconditionnelle."
+  },
+  {
+    "id": "fc-vgl-citation",
+    "matiere": "Droit de l'Union européenne",
+    "theme": "Ordre juridique de l'Union",
+    "arret": "van-gend-en-loos",
+    "a_verifier": true,
+    "recto": "De quel arrêt vient la formule : « un nouvel ordre juridique de droit international […] dont les sujets sont non seulement les États membres mais également leurs ressortissants » ?",
+    "verso": "Van Gend en Loos (CJCE, 5 février 1963)."
+  },
+  {
+    "id": "fc-costa-date",
+    "matiere": "Droit de l'Union européenne",
+    "theme": "Primauté",
+    "arret": "costa-enel",
+    "a_verifier": true,
+    "recto": "Costa c/ ENEL : juridiction, date et référence ?",
+    "verso": "CJCE, 15 juillet 1964, aff. 6/64."
+  },
+  {
+    "id": "fc-costa-principe",
+    "matiere": "Droit de l'Union européenne",
+    "theme": "Primauté",
+    "arret": "costa-enel",
+    "a_verifier": true,
+    "recto": "Quel principe l'arrêt Costa c/ ENEL consacre-t-il ?",
+    "verso": "La **primauté** du droit communautaire sur le droit national, même postérieur : on ne peut pas lui opposer « un texte interne quel qu'il soit »."
+  },
+  {
+    "id": "fc-costa-citation",
+    "matiere": "Droit de l'Union européenne",
+    "theme": "Ordre juridique de l'Union",
+    "arret": "costa-enel",
+    "a_verifier": true,
+    "recto": "De quel arrêt vient la formule : « un ordre juridique propre, intégré au système juridique des États membres » ?",
+    "verso": "Costa c/ ENEL (CJCE, 15 juillet 1964)."
+  },
+  {
+    "id": "fc-simmenthal-date",
+    "matiere": "Droit de l'Union européenne",
+    "theme": "Office du juge national",
+    "arret": "simmenthal",
+    "a_verifier": true,
+    "recto": "Simmenthal : juridiction, date et référence ?",
+    "verso": "CJCE, 9 mars 1978, aff. 106/77."
+  },
+  {
+    "id": "fc-simmenthal-apport",
+    "matiere": "Droit de l'Union européenne",
+    "theme": "Office du juge national",
+    "arret": "simmenthal",
+    "a_verifier": true,
+    "recto": "Quel est l'apport de l'arrêt Simmenthal ?",
+    "verso": "Tout juge national doit laisser **inappliquée, de sa propre autorité**, la loi nationale contraire au droit communautaire, même postérieure, sans attendre son abrogation ni saisir la juridiction constitutionnelle."
+  },
+  {
+    "id": "fc-simmenthal-inapplicabilite",
+    "matiere": "Droit de l'Union européenne",
+    "theme": "Office du juge national",
+    "arret": "simmenthal",
+    "a_verifier": true,
+    "recto": "Après Simmenthal, le juge national annule-t-il la loi contraire au droit de l'Union ?",
+    "verso": "Non. Il la **laisse inappliquée** dans le litige qu'il tranche. La loi n'est ni annulée ni abrogée : seul le législateur peut la faire disparaître."
+  },
+  {
+    "id": "fc-cassis-date",
+    "matiere": "Droit de l'Union européenne",
+    "theme": "Libre circulation des marchandises",
+    "arret": "cassis-de-dijon",
+    "a_verifier": true,
+    "recto": "Cassis de Dijon : juridiction, date, référence et nom officiel de l'affaire ?",
+    "verso": "CJCE, 20 février 1979, aff. 120/78, Rewe-Zentral AG c/ Bundesmonopolverwaltung für Branntwein."
+  },
+  {
+    "id": "fc-cassis-reconnaissance",
+    "matiere": "Droit de l'Union européenne",
+    "theme": "Reconnaissance mutuelle",
+    "arret": "cassis-de-dijon",
+    "a_verifier": true,
+    "recto": "Qu'est-ce que le principe de reconnaissance mutuelle (Cassis de Dijon) ?",
+    "verso": "Un produit **légalement fabriqué et commercialisé** dans un État membre doit, en principe, pouvoir être vendu dans tous les autres États membres, sauf justification par une exigence impérative ou un motif de l'article 36 TFUE."
+  },
+  {
+    "id": "fc-cassis-exigences",
+    "matiere": "Droit de l'Union européenne",
+    "theme": "Exigences impératives",
+    "arret": "cassis-de-dijon",
+    "a_verifier": true,
+    "recto": "Quelles exigences impératives l'arrêt Cassis de Dijon cite-t-il ?",
+    "verso": "L'efficacité des contrôles fiscaux, la protection de la santé publique, la loyauté des transactions commerciales et la défense des consommateurs. La liste est ouverte (« en particulier »)."
+  },
+  {
+    "id": "fc-primaute-france",
+    "matiere": "Droit de l'Union européenne",
+    "theme": "Primauté",
+    "arret": "costa-enel",
+    "a_verifier": true,
+    "recto": "Par quels arrêts les juridictions françaises ont-elles admis la primauté des traités sur la loi postérieure ?",
+    "verso": "Cour de cassation : **Jacques Vabre**, 24 mai 1975. Conseil d'État : **Nicolo**, 20 octobre 1989. Fondement : article 55 de la Constitution."
+  },
+  {
+    "id": "fc-directive-horizontal",
+    "matiere": "Droit de l'Union européenne",
+    "theme": "Effet direct",
+    "arret": "van-gend-en-loos",
+    "a_verifier": true,
+    "recto": "Une directive non transposée peut-elle être invoquée par un particulier contre un autre particulier ?",
+    "verso": "Non : la Cour refuse l'**effet direct horizontal** des directives (Marshall, 26 février 1986). Une directive peut seulement être invoquée contre l'État (effet direct vertical)."
+  }
+]
